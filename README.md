@@ -45,7 +45,8 @@ lib/
 ├── pubspec.yaml
 ├── README.md
 
-Login credentials:  Email: test@gmail.com  , password: 123456
+Login credentials:  Email: test@gmail.com  , password: 123456  
+Note: You can also create your login credentials
 
 To execute with your own firease instructions below: 
 
